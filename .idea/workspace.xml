@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a839b23-079e-444d-9df5-85b2ddc16b02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio-DIO-POO.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SODuonwfOYbDNcw8qlaiLxOoxs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Program Files/JetBrains/IntelliJ.Portuguese.Brazil.Dictionary-master/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Program Files\JetBrains\IntelliJ.Portuguese.Brazil.Dictionary-master\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a839b23-079e-444d-9df5-85b2ddc16b02" name="Changes" comment="" />
+      <created>1689008959020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689008959020</updated>
+    </task>
+    <servers />
+  </component>
+</project>
