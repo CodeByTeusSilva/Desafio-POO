@@ -153,7 +153,7 @@ fabric.properties
 modules.xml
 .idea/misc.xml
 *.ipr
-dictionaries.txt
+dictionaries
 
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
